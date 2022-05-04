@@ -1,4 +1,4 @@
-- Olá, meu nome é Ligia Kikuchi.
+- Olá, meu nome é Ligia Ayumi Kikuchi.
 - Sou professora do Colégio Estadual Dr. Willie Davids.
 - Leciono as disciplinas de Pensamento Computacional; Progração e Tecnologia Computacional; e Física.
 
