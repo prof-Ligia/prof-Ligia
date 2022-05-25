@@ -1,6 +1,7 @@
 - Olá, meu nome é Ligia Ayumi Kikuchi.
 - Sou professora do Colégio Estadual Dr. Willie Davids.
-- Leciono as disciplinas de Pensamento Computacional; Progração e Tecnologia Computacional; e Física.
+- Meu email de contato é ligia.kikuchi@escola.pr.gov.br.
+- Leciono as disciplinas de Pensamento Computacional; Programaação e Tecnologia Computacional; e Física.
 
 
 <!---
